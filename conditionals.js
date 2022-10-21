@@ -1,4 +1,4 @@
-/*const temperature = 12;
+const temperature = 12;
 
 if (temperature < 0) {
   console.log("Make sure you pick out a scarf!");
@@ -22,7 +22,7 @@ if (isCitizen && age > 18) {
 if (temperature < -40 || temperature > 40) {
   console.log("Maybe going outside isn't such a great idea…");
 }
-*/
+
 
 let raining = false
 if (!raining) {
